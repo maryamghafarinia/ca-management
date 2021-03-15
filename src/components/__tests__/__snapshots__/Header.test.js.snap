@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <h2
+      data-testid="h2HeaderTag"
+    >
+      Car Management
+    </h2>
+    <img
+      alt="Auto1 Logo"
+      src="https://auto1-js-task-api--mufasa71.repl.co/images/logo.png"
+      style="width: 100px; cursor: pointer;"
+    />
+  </header>
+</DocumentFragment>
+`;
