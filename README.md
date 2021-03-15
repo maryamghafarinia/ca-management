@@ -1,6 +1,6 @@
 # Car Management
 
-The application meet the following :
+The application meets the following :
 
 Fetch all available cars and pagination with limit of 10
 Allow the user to filter the cars by manufacturer or color
