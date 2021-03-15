@@ -1,6 +1,10 @@
-# Task Tracker App
+# Car Management
 
- It includes the react ui as well as JSON-server for our mock backend
+The application meet the following :
+
+Fetch all available cars and pagination with limit of 10
+Allow the user to filter the cars by manufacturer or color
+Show the details of a selected car
 
 ## Usage
 
@@ -8,18 +12,6 @@
 
 ```
 npm install
-```
-
-### Run React dev server (http://localhost:3000)
-
-```
-npm start
-```
-
-### Run the JSON server (http://localhost:5000)
-
-```
-npm run server
 ```
 
 ### To build for production
